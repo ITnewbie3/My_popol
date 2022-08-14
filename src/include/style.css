@@ -1,0 +1,19 @@
+
+header{
+    width:100%;
+    position: absolute;
+    height:60px;
+    margin: 0 auto;
+    top:0;
+    z-index: 10;
+    background: rgba(130,130,130,0.4);
+}
+header ul {
+    color:white;
+    height:100%;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    width:80%;
+}
