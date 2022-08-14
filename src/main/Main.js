@@ -2,7 +2,9 @@ import React from 'react';
 import './style.css'
 import { Typing } from 'typing-effect-reactjs';
 
+
 const Main = () => {
+
     return (
         <div id = 'maindiv'>
             <video src='./img/Clouds.mp4' loop muted autoPlay />
@@ -10,12 +12,10 @@ const Main = () => {
                 
                <p><Typing 
                text={[ "Welcome To My Hompage",
-                    "Thank You For Your Watching"]
-                    }
+                    "Thank You For Watching"]}
                typeSpeed={200}
                deleteSpeed={100}
                smartBackspace
-               
                styleClass={'type'}
                />
                </p>
