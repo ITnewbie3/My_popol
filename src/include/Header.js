@@ -10,8 +10,8 @@ const Header = () => {
     return (
         <header>
             <ul>
-                <Link to="/"><li>Home</li></Link>
-                <Link to="/aboutme"><li>About me</li></Link>
+                <li>Main</li>
+                <li>Technology</li>
                 <li>Last Career</li>
                 <li>Q*A</li>
                 <li>Contents</li>
