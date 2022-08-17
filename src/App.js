@@ -1,6 +1,5 @@
 import './App.css';
 import Main from './main/Main';
-import Header from './include/Header';
 import Tachnolygy from './technology/Technology'
 import Portfolio from './portfolio/Portfolio';
 import Fade from 'react-reveal/Fade'
