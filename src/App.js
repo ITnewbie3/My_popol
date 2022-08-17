@@ -9,7 +9,7 @@ function App() {
 
 window.addEventListener("mousewheel",add)
 function add (e){
-  let move = 1173
+  let move = window.innerHeight
   let page = Math.floor(window.pageYOffset/1150)
   console.log(page)
   if(e.deltaY > 80){
