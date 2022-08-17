@@ -53,6 +53,7 @@
     }
     .list li{
         font-size: 15px;
+        padding: 0 15px;
     }
     #chart{
         width:100%;

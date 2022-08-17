@@ -7,7 +7,7 @@ const Main = () => {
 
     return (
         <div id = 'maindiv'>
-            <video src='./img/Clouds.mp4' loop muted autoPlay />
+            <video src='./img/Clouds.mp4' loop muted autoPlay playsinline />
             <div id='typing'>
                 
                <p><Typing 
