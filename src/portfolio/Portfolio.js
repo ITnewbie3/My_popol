@@ -14,7 +14,7 @@ const Portfolio = () => {
             <Fade bottom><Contents2/></Fade>
             <Fade left><Contents3/></Fade>
             <Fade bottom><Contents4/></Fade>
-            <Fade left><Contents5/></Fade>
+            {/* <Fade left><Contents5/></Fade> */}
         </div>
     );
 };
