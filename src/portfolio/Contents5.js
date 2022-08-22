@@ -6,7 +6,7 @@ const Contents5 = () => {
               <div className='portfolio'>
         <div className='contentsdiv'>
             <div className='imgdiv'>
-                <img src='./img/baseball.png'></img>
+                <img src='./img/snake.png'></img>
             </div>
             <div className='contents'>
                <h1>05 </h1><span className='title'>SNAKEGAME</span>
@@ -27,8 +27,8 @@ const Contents5 = () => {
                 <br/>
                 부족한점 : 객체미선언, 우측으로가는도중 반대편버튼 꾹누를시 이동이 가능함.
             </span>
-            <h4><a href='http://sh98224.dothome.co.kr/baseball' target='_blank' rel='noreferrer'>GoTo</a></h4>
-            <h5><a href='https://github.com/ITnewbie3/baseball' target='_blank' rel='noreferrer'>
+            <h4><a href='http://sh98224.dothome.co.kr/snakegame/' target='_blank' rel='noreferrer'>GoTo</a></h4>
+            <h5><a href='https://github.com/ITnewbie3/snakegame' target='_blank' rel='noreferrer'>
                 <img src='./img/github.png'></img></a></h5>
             </div>
             </div>

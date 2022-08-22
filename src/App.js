@@ -9,7 +9,7 @@ function App() {
 window.addEventListener("mousewheel",add)
 function add (e){
   let move = window.innerHeight
-  let page = Math.floor(window.pageYOffset/window.innerHeight)
+  let page = Math.floor((window.pageYOffset/window.innerHeight)+0.1)
   console.log(page)
   if(e.deltaY > 80){
         window.scrollTo({ left: 0, top: (page+1)*move, behavior: "smooth" });
