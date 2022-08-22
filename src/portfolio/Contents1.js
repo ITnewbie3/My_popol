@@ -30,7 +30,9 @@ const Contents = () => {
             </span>
             <h4><a href='http://flex-client-ten.vercel.app' target='_blank' rel='noreferrer'>GoTo</a></h4>
             <h5><a href='https://github.com/ITnewbie3/flex_client' target='_blank' rel='noreferrer'>
-                <img src='./img/github.png'></img></a></h5>
+                <img src='./img/github.png' alt=''></img></a>
+                <a href='./file/FLEX.pptx' download><img src='./img/ppt.png' alt=''/></a>  
+                              </h5>
             </div>
             </div>
             </div>
